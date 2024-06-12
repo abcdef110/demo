@@ -1,1 +1,2 @@
-console.js("fhnj")
+
+console.log("dd")
